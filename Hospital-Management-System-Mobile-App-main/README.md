@@ -11,9 +11,7 @@
   <a href="http://makeapullrequest.com">
     <img alt="PRs welcome: alianilkocak" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://linkedin.com/in/harshana-rathnayaka">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=555" />
-  </a>
+
 </p>
 
 **_Star ⭐ the repo if you like what you see. 😎_**
