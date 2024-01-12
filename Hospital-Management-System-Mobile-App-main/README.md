@@ -18,9 +18,9 @@
 
 **_Star ⭐ the repo if you like what you see. 😎_**
 
-<img alt="Poster" src="assets/screenshots/poster.jpg" />
+<img alt="Poster" src="assets/screenshots/1.jpg" />
 
-> **_A Hospital Management System made with Flutter to help you make doctor's appointments and lab appointments during this Covid-19 Era._**
+> **_A Hospital Management System made with Flutter to help you make doctor's appointments and lab appointments._**
 
 ## 👷‍♂️ Built With
 
@@ -33,7 +33,7 @@
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc.)
 - A little knowledge of Dart and Flutter
-- The Hospital Management System web application [Click here](https://github.com/Harshana-Rathnayaka/Hospital-Management-System)
+- The Hospital Management System web application [Click here](https://github.com/KING1ADB/Hospital-Management-System-webapp.git)
 
 ## 🔨 Installation (Windows Only)
 
@@ -42,11 +42,11 @@
 
 > 👯 Clone the repository
 
-- Clone this repo to your local machine using `https://github.com/Harshana-Rathnayaka/Hospital-Management-System-Mobile-App`
+- Clone this repo to your local machine using `https://github.com/KING1ADB/Hospital-Management-System-MobileApp.git`
 
 ```shell
 
-$ git clone https://github.com/Harshana-Rathnayaka/Covid19-Tracker
+$ git clone https://github.com/KING1ADB/Covid19-Tracker
 
 ```
 
